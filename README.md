@@ -19,7 +19,7 @@ Software developer with 5+ years of experience building scalable mobile and back
 
 ---
 
-###Featured Projects
+### Featured Projects
 
 ### CentralBus
 
@@ -44,7 +44,7 @@ Mobile application developed with Flutter for task management.
 - CRUD operations (create, read, update, delete tasks)
 - Swipe actions to update status and delete tasks
 
-https://github.com/tu-usuario/tu-repo
+https://github.com/devconroman-create/TaskManagerApp
 
 ---
 
