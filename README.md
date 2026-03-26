@@ -56,7 +56,8 @@ https://github.com/devconroman-create/TaskManagerApp
 ---
 
 ### Contact
-- Email: dev.con.roman@gmail.com
+
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:dev.con.roman@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/luis-gerardo-rom%C3%A1n-s%C3%A1nchez-22ba49237/)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rs_luisg)
 [![TikTok](https://img.shields.io/badge/TikTok-Profile-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@devconroman)
